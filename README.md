@@ -1,7 +1,5 @@
 # Fake News Detection Analysis - LSTM Classification
 
-**Complete Video Tutorial:** https://youtu.be/DdgymahD7Zg
-
 # Dataset Information
 
 Develop a Deep learning program to identify when an article might be fake news.
